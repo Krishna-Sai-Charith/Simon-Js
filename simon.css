@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+    margin-top: 100px;
+}
+.red{
+    background-color: red;
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    border-radius: 16px;
+    cursor: pointer;
+    margin-top: 75px;
+
+}
+.green{
+    background-color: green;
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    border-radius: 16px;
+}
+.yellow{
+    background-color: yellow;
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    border-radius: 16px;
+    cursor: pointer;
+}
+.blue{
+    background-color: blue;
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    margin-top: 75px;
+    cursor: pointer;
+    border-radius: 16px;
+}
+.flash{
+    background-color: white;
+}
+
+.userFlash{
+    background-color: greenyellow;
+}
